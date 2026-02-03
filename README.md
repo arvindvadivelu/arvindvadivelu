@@ -1,38 +1,39 @@
 <div align="center">
-  <img src="./github-header-banner.png" width="100%" alt="Header Banner - Please Upload Your Image to ./images/banner.png" />
+  <img src="github-header-banner.png" width="100%" alt="Header Banner - Please Upload Your Image to ./images/banner.png" />
 </div>
 
----
 
 <div align="center">
-  <a href="">
+  <a href="https://github.com/arvindvadivelu">
     <img src="Arvind V - 312422104022.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #000000;" alt="Profile Photo"/>
   </a>
 
-  <h1>ARVIND VADIVELU
+  <h1 align="center">
+    Arvind Vadivelu
   </h1>
 
   <h2>
-    🚀 Engineering immediate solutions for unsolved real-world gaps.
+    🚀 Full Stack SDE | Java Specialist | Building Micro SaaS To Solve Real-World Problems
   </h2>
+  <br>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/arvindvadivelu">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_USER">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="https://unstop.com/u/arvindv2351">
+        <img src="https://img.shields.io/badge/Unstop-0047FF?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
     </a>
     <a href="https://your-portfolio.com">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="varvind2004@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -47,7 +48,6 @@ I am a results-driven software engineer focused on building robust back-end syst
 
 <br clear="right"/>
 
----
 
 ## 💼 Professional Experience
 

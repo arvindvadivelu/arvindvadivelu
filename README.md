@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # ARVIND VADIVELU
@@ -85,3 +86,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=60&section=footer" width="100%"/>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**arvindvadivelu/arvindvadivelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> cadc25d74cde82dd56558b9b8f6ab5394151f177

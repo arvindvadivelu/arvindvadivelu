@@ -68,10 +68,12 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <h4><strong>Currently focused on</strong></h4>
 
-- <strong>Distributed systems & cloud-native architecture</strong>  
-- <strong>Kubernetes & scalable backend platforms</strong>  
-- <strong>Rust for performance-critical components</strong>  
-- <strong>Finance fundamentals</strong> to build better, sustainable products  
+- <strong>Backend engineering</strong> — strong foundation in building scalable server-side systems  
+- <strong>Cloud fundamentals</strong> — hands-on with core cloud concepts and deployments  
+- <strong>MERN stack</strong> — experience building full-stack web applications  
+- <strong>Advanced Java & Spring Boot</strong> — currently deepening backend expertise  
+- <strong>Finance fundamentals</strong> — learning to build sustainable, business-aware products  
+ 
 
 <p>
 <strong>Open to:</strong> Remote roles · Global teams · High-impact MNC opportunities

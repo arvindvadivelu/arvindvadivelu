@@ -84,36 +84,55 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 
 
-## 💼 Professional Experience
-
 ### <img src="/Vcodez Logo.jpg" width="35" style="vertical-align: middle;"> ML Engineer Intern @ **VCodez Private Limited**
-**Duration:** Jun 2025 - Aug 2025
+**Duration:** Jun 2025 – Aug 2025
 
 **Key Contributions:**
-* 🧠 Assisted in maintaining and debugging backend **Python-based ML workflows**, improving execution stability.
-* 🐞 Identified and resolved runtime errors across data pipelines and model execution layers.
-* 📊 Analyzed logs and ML model outputs to detect inconsistencies and ensure data accuracy.
-* 🔍 Supported validation of model behavior during testing and iteration cycles.
-* 📝 Documented operational fixes, workflows, and debugging steps to enable team knowledge sharing.
+* 🤖 Contributed to an **AI generation product**, delivering intelligent features as part of a service-oriented platform.
+* 🧠 Integrated, tested, and validated **multiple open-source AI models** to support content and data generation workflows.
+* 🖥️ Built and maintained core product workflows using **Streamlit**, which powered the company’s primary product.
+* 🔧 Debugged and stabilized **Python-based ML pipelines**, resolving runtime issues and improving execution reliability.
+* 📊 Analyzed logs and model outputs to ensure **data consistency, accuracy, and predictable behavior**.
+* 📝 Documented workflows, fixes, and operational practices to support smooth collaboration across teams.
 
 **Tech Stack Used:**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,react,angular,mysql" height="40" />
 </p>
 
-### <img src="https://img.icons8.com/color/48/000000/amazon.png" width="35" style="vertical-align: middle;"> Full Stack Developer Intern @ **Leiten Technologies Private**
-**Duration:** Jun 2025 - Jul 2025
+
+
+
+### <img src="/Leiten Technology Logo.jpg" width="35" style="vertical-align: middle;"> Full Stack Developer Intern @ **Leiten Technologies Private**
+**Duration:** Jun 2025 – Jul 2025
 
 **Key Contributions:**
-* 🔧 Troubleshot REST APIs, CRUD operations, and backend services to ensure reliable data flow.
-* 🗄️ Debugged SQL queries and data persistence issues across application layers.
-* 🧪 Tested frontend and backend components, identifying bugs and regression issues.
-* 🤝 Collaborated with senior developers to document fixes and improve system reliability.
-* ⚙️ Supported application maintenance and operational efficiency improvements.
+* 🎟️ Worked on an **Event Management Software product** handling end-to-end event operations.
+* 💳 Developed and supported modules for **event registration, payment enrollment, and participant management**.
+* 📱 Contributed to **QR-based scanning and check-in workflows** to streamline on-site event access.
+* 🔧 Improved backend APIs and data handling to ensure reliable event data flow during peak usage.
+* ⚙️ Enhanced system reliability and usability to support smoother event execution.
 
 **Tech Stack Used:**
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,react,mysql,postman,aws" height="40" />
+</p>
+
+
+
+### <img src="//Tata Commincation Logo.webp" width="35" style="vertical-align: middle;"> Software Engineer Intern @ **Tata Communications Ltd.**
+**Duration:** Dec 2024 – Jan 2025
+
+**Key Contributions:**
+* ☁️ Worked as a **Micro Cloud Services Product Developer** on a cloud-based platform for mini enterprises.
+* 🧱 Contributed to building services **from scratch**, supporting the product lifecycle from development to deployment.
+* 🗂️ Designed and implemented **metadata structures and meta tables** to ensure data consistency across services.
+* 🔄 Ensured all product data was properly standardized and traceable through metadata-driven design.
+* 🚀 Supported CI/CD pipelines and deployment workflows to successfully deliver the product into production.
+
+**Tech Stack Used:**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,spring,aws,postman,mongodb" height="40" />
 </p>
 
 ---

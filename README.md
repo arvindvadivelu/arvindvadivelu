@@ -1,12 +1,25 @@
 <div align="center">
-  <img src="github-header-banner.png" width="80%" alt="Header Banner - Please Upload Your Image to ./images/banner.png" />
+  <img src="github-header-banner.png" width="85%" alt="Header Banner" />
 </div>
 
+<br/>
 
+<!-- ===== PROFILE IMAGE (GITHUB SAFE CIRCLE) ===== -->
 <div align="center">
-  <a href="https://github.com/arvindvadivelu">
-    <img src="Arvind V - 312422104022.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #000000;" alt="Profile Photo"/>
-  </a>
+  <div style="
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid #000000;
+    display: inline-block;
+  ">
+    <img src="Arvind V - 312422104022.png"
+         width="160"
+         height="160"
+         alt="Arvind Vadivelu" />
+  </div>
+</div>
 
   <h1 align="center">
     Arvind Vadivelu

@@ -89,7 +89,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 **Tech Stack:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,angular,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,react,mysql" height="40" />
 </p>
 
 ---
@@ -133,9 +133,10 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <br>
 
-* 🥇 **Winner, Global AI Hackathon 2023** - Developed an award-winning predictive model.
-* 📜 **AWS Certified Solutions Architect Associate** - Validated cloud architecture expertise.
-* 🌟 **Top Contributor Recognition** - Recognized for significant contributions to major React Open Source libraries.
+* 🥇 **1st Prize, Cognebula 2025 (Velammal Eng College National-Level Symposium)** – Won 1st place in **Prompt Craft**, awarded **₹3000 cash + ₹3000 voucher coupon**.  
+* 🌟 **Unstop Campus Ambassador 2024-2025** – Represented campus and led engagement initiatives.  
+* 💡 **Idea Pitch Deck Competition Winner** – Secured **₹500 prize** for innovative idea presentation.
+
 
 ---
 

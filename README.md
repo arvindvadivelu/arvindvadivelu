@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-header-banner.png" width="100%" alt="Header Banner - Please Upload Your Image to ./images/banner.png" />
+  <img src="github-header-banner.png" width="80%" alt="Header Banner - Please Upload Your Image to ./images/banner.png" />
 </div>
 
 
@@ -24,7 +24,7 @@
     <a href="https://unstop.com/u/arvindv2351">
         <img src="https://img.shields.io/badge/Unstop-0047FF?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
     </a>
-    <a href="https://your-portfolio.com">
+    <a href="">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="varvind2004@gmail.com">
@@ -35,18 +35,38 @@
 
 
 
-## 👨‍💻 About Me
+## 🚀 Builder at Heart
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250" align="right"/>
 
-I am a results-driven software engineer focused on building robust back-end systems and dynamic front-end interfaces. I thrive on solving complex architectural challenges and optimizing application performance.
+<h3><strong>Full-Stack & Java Developer · Remote-Ready · MNC-Ready</strong></h3>
 
-* 🔭 I’m currently working on **Building high-availability microservices**
-* 🌱 I’m currently learning **Rust and Advanced Kubernetes patterns**
-* 👯 I’m looking to collaborate on **Open Source Dev Tooling**
-* ⚡ **Core Philosophy:** Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+<p>
+<strong>I build scalable, production-ready systems with a business-first mindset.</strong><br/>
+I focus on solving real problems, building long-term value, and owning systems end-to-end.
+</p>
+
+<h4><strong>What I do best</strong></h4>
+
+- <strong>Micro-SaaS & Domain-Driven Systems</strong> — building solutions, not clones  
+- <strong>Fast learner</strong> — adapt quickly to new stacks and environments  
+- <strong>Scalable engineering</strong> — design for growth, reliability, and clarity  
+- <strong>Business-aware development</strong> — code aligned with outcomes, not just features  
+
+<h4><strong>Currently focused on</strong></h4>
+
+- <strong>Distributed systems & cloud-native architecture</strong>  
+- <strong>Kubernetes & scalable backend platforms</strong>  
+- <strong>Rust for performance-critical components</strong>  
+- <strong>Finance fundamentals</strong> to build better, sustainable products  
+
+<p>
+<strong>Open to:</strong> Remote roles · Global teams · High-impact MNC opportunities
+</p>
 
 <br clear="right"/>
+
+
 
 
 ## 💼 Professional Experience

@@ -168,7 +168,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="45" title="Git, GitHub, VSCode, Postman, Figma" />
 
-<img src="https://www.dreamstime.com/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-image275376231" height="45" title="ChatGPT" />
+<img src="https://www.flaticon.com/free-icon/chatgpt_12222588?term=chatgpt&page=1&position=2&origin=tag&related_id=12222588" height="45" title="ChatGPT" />
 <img src="https://skillicons.dev/icons?i=cursor" height="45" title="Cursor AI" />
 <img src="https://skillicons.dev/icons?i=perplexity" height="45" title="Perplexity AI" />
 <img src="https://skillicons.dev/icons?i=gemini" height="45" title="Gemini AI" />

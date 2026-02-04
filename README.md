@@ -133,7 +133,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <br>
 
-* 🥇 **1st Prize, Cognebula 2025 (Velammal Eng College National-Level Symposium)** – Won 1st place in **Prompt Craft**, awarded **₹3000 cash + ₹3000 voucher coupon**.  
+* 🥇 **1st Prize, Cognebula 2025** – Won **Prompt Craft** at Velammal Eng College, **₹3000 cash + ₹3000 voucher**.
 * 🌟 **Unstop Campus Ambassador 2024-2025** – Represented campus and led engagement initiatives.  
 * 💡 **Idea Pitch Deck Competition Winner** – Secured **₹500 prize** for innovative idea presentation.
 

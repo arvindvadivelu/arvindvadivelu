@@ -97,7 +97,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 **Tech Stack Used:**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,streamlit,react,angular,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,react,mysql" height="40" />
 </p>
 
 
@@ -164,56 +164,29 @@ I focus on solving real problems, building long-term value, and owning systems e
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,linux,terraform" height="50" />
 
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50" />
+### 🧰 Tools & Productivity
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="45" title="Git, GitHub, VSCode, Postman, Figma" />
 
-## 📊 GitHub Statistics
+<img src="https://www.dreamstime.com/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-image275376231" height="45" title="ChatGPT" />
+<img src="https://skillicons.dev/icons?i=cursor" height="45" title="Cursor AI" />
+<img src="https://skillicons.dev/icons?i=perplexity" height="45" title="Perplexity AI" />
+<img src="https://skillicons.dev/icons?i=gemini" height="45" title="Gemini AI" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
 
----
-
-## 🚀 Featured Projects
-
-### 📂 [AI-Powered Task Manager](https://github.com/YOUR_GITHUB_USERNAME/project-1)
-A revolutionary smart assistant that uses machine learning to predict your next tasks and optimize your daily schedule.
-<br>
-**Tech:** <img src="https://skillicons.dev/icons?i=python,tensorflow,react" height="25" style="vertical-align: middle;"/>
-
-<br>
-
-### 📂 [Real-time E-commerce Dashboard](https://github.com/YOUR_GITHUB_USERNAME/project-2)
-A high-performance dashboard providing live analytics, inventory management, and seamless payment processing integration.
-<br>
-**Tech:** <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vue" height="25" style="vertical-align: middle;"/>
-
-<br>
-
-### 📂 [Data Structure Utility Library](https://github.com/YOUR_GITHUB_USERNAME/project-3)
-An open-source TypeScript library designed to simplify complex data manipulation for front-end developers.
-<br>
-**Tech:** <img src="https://skillicons.dev/icons?i=ts,npm,jest" height="25" style="vertical-align: middle;"/>
 
 ---
 
 <div align="center">
   <h2>⚡ Let's Connect!</h2>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+  <a href="https://www.linkedin.com/in/arvindvadivelu">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USER">
+  <a href="https://www.linkedin.com/in/arvindvadivelu/">
     <img src="https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/>
   </a>
 
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Wave">
-  <p>Made with ❤️ by <a href="https://github.com/YOUR_GITHUB_USERNAME">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Arvindvadivelu">Arvind V</a></p>
 </div>

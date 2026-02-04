@@ -82,7 +82,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 ### <img src="/Vcodez Logo.jpg" width="35" style="vertical-align: middle;"> ML Engineer Intern @ **VCodez Private Limited**
 **Duration:** Jun 2025 – Aug 2025
-- 🤖 Developed **AI generation product** workflows to power company services  
+- 🤖 Worked **AI generation product** workflows to power company services  
 - 🖥️ Built and maintained **Streamlit-based product pipelines** with React & Angular components  
 - 🧠 Integrated and validated multiple **open-source AI models**  
 - 🔧 Debugged **Python ML pipelines**, improving reliability and accuracy  
@@ -110,7 +110,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 ### <img src="/Tata Commincation Logo.jpg" width="35" style="vertical-align: middle;"> Software Engineer Intern @ **Tata Communications Ltd.**
 **Duration:** Dec 2024 – Jan 2025
-- ☁️ Built **Micro Cloud Services** for mini-enterprise platform  
+- ☁️ Worked on **Micro Cloud Services** for mini-enterprise platform  
 - 🧱 Developed services **from scratch**, supporting full product lifecycle  
 - 🗂️ Designed **metadata structures & meta tables** to ensure data consistency  
 - 🚀 Supported **CI/CD pipelines and production deployments**  

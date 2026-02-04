@@ -86,36 +86,38 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 ## 💼 Professional Experience
 
-### <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="35" style="vertical-align: middle;"> Senior Software Engineer @ **TechGiant Corp**
-**Duration:** Jan 2023 - Present
+### <img src="/Vcodez Logo.jpg" width="35" style="vertical-align: middle;"> ML Engineer Intern @ **VCodez Private Limited**
+**Duration:** Jun 2025 - Aug 2025
 
 **Key Contributions:**
-* 🚀 Engineered a distributed microservices architecture serving **1M+ daily active users** with 99.99% uptime availability.
-* 📊 Optimized database indexing and query strategies, reducing system API latency by **40%**.
-* 👥 Led and mentored a cross-functional team of **5 developers** in an Agile environment.
-* 🔧 Implemented automated CI/CD pipelines using GitHub Actions, cutting deployment time by **60%**.
-* 🏆 Awarded "Innovator of the Quarter" for developing a custom internal data visualization tool.
+* 🧠 Assisted in maintaining and debugging backend **Python-based ML workflows**, improving execution stability.
+* 🐞 Identified and resolved runtime errors across data pipelines and model execution layers.
+* 📊 Analyzed logs and ML model outputs to detect inconsistencies and ensure data accuracy.
+* 🔍 Supported validation of model behavior during testing and iteration cycles.
+* 📝 Documented operational fixes, workflows, and debugging steps to enable team knowledge sharing.
 
 **Tech Stack Used:**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,aws,docker,kubernetes,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,react,mysql" height="50" />
 </p>
+
+
 
 <br>
 
-### <img src="https://img.icons8.com/color/48/000000/amazon.png" width="35" style="vertical-align: middle;"> Software Developer @ **Innovative Startup**
-**Duration:** Jun 2020 - Dec 2022
+### <img src="https://img.icons8.com/color/48/000000/amazon.png" width="35" style="vertical-align: middle;"> Full Stack Developer Intern @ **Leiten Technologies Private**
+**Duration:** Jun 2025 - Jul 2025
 
 **Key Contributions:**
-* 💻 Architected the core frontend using **React & Redux**, driving a 25% increase in user engagement.
-* 🔒 Overhauled application security by implementing robust **OAuth2 and JWT** authentication protocols.
-* 🤝 Collaborated extensively with UI/UX designers to translate Figma concepts into responsive code.
-* 📉 Reduced AWS infrastructure costs by **30%** through serverless function optimization.
-* 🧪 Championed test-driven development, increasing unit test coverage from 40% to **85%**.
+* 🔧 Troubleshot REST APIs, CRUD operations, and backend services to ensure reliable data flow.
+* 🗄️ Debugged SQL queries and data persistence issues across application layers.
+* 🧪 Tested frontend and backend components, identifying bugs and regression issues.
+* 🤝 Collaborated with senior developers to document fixes and improve system reliability.
+* ⚙️ Supported application maintenance and operational efficiency improvements.
 
 **Tech Stack Used:**
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,react,redux,firebase,sass,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,mysql,postman,aws" height="40" />
 </p>
 
 ---

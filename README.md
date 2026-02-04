@@ -101,10 +101,6 @@ I focus on solving real problems, building long-term value, and owning systems e
   <img src="https://skillicons.dev/icons?i=python,react,mysql" height="50" />
 </p>
 
-
-
-<br>
-
 ### <img src="https://img.icons8.com/color/48/000000/amazon.png" width="35" style="vertical-align: middle;"> Full Stack Developer Intern @ **Leiten Technologies Private**
 **Duration:** Jun 2025 - Jul 2025
 

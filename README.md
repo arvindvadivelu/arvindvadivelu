@@ -53,7 +53,6 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="200" align="right"/>
 
 <h3><strong>Full-Stack & Java Developer · Remote-Ready · MNC-Ready</strong></h3>
-
 <p>
 <strong>I build scalable, production-ready systems with a business-first mindset.</strong><br/>
 I focus on solving real problems, building long-term value, and owning systems end-to-end.
@@ -61,19 +60,17 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <h4><strong>What I do best</strong></h4>
 
-- <strong>Micro-SaaS & Domain-Driven Systems</strong> — building solutions, not clones  
-- <strong>Fast learner</strong> — adapt quickly to new stacks and environments  
-- <strong>Scalable engineering</strong> — design for growth, reliability, and clarity  
-- <strong>Business-aware development</strong> — code aligned with outcomes, not just features  
+- 💡 <strong>Micro-SaaS & Domain-Driven Systems</strong> — building solutions, not clones  
+- ⚡ <strong>Fast Learner</strong> — adapt quickly to new stacks & environments  
+- 🔧 <strong>Scalable Engineering</strong> — design for growth, reliability, and clarity  
+- 📊 <strong>Business-Aware Development</strong> — code aligned with outcomes  
 
 <h4><strong>Currently focused on</strong></h4>
 
-- <strong>Backend engineering</strong> — strong foundation in building scalable server-side systems  
-- <strong>Cloud fundamentals</strong> — hands-on with core cloud concepts and deployments  
-- <strong>MERN stack</strong> — experience building full-stack web applications  
-- <strong>Advanced Java & Spring Boot</strong> — currently deepening backend expertise  
-- <strong>Finance fundamentals</strong> — learning to build sustainable, business-aware products  
- 
+- 🖥️ <strong>Backend Engineering</strong> — scalable server-side systems  
+- ☁️ <strong>Cloud Fundamentals</strong> — core cloud concepts & deployments  
+- 🌐 <strong>MERN Stack</strong> — full-stack web app development  
+- ☕ <strong>Java & Spring Boot</strong> — backend expertise  
 
 <p>
 <strong>Open to:</strong> Remote roles · Global teams · High-impact MNC opportunities
@@ -81,59 +78,48 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 <br clear="right"/>
 
-
-
+---
 
 ### <img src="/Vcodez Logo.jpg" width="35" style="vertical-align: middle;"> ML Engineer Intern @ **VCodez Private Limited**
 **Duration:** Jun 2025 – Aug 2025
+- 🤖 Developed **AI generation product** workflows to power company services  
+- 🖥️ Built and maintained **Streamlit-based product pipelines** with React & Angular components  
+- 🧠 Integrated and validated multiple **open-source AI models**  
+- 🔧 Debugged **Python ML pipelines**, improving reliability and accuracy  
 
-**Key Contributions:**
-* 🤖 Contributed to an **AI generation product**, delivering intelligent features as part of a service-oriented platform.
-* 🧠 Integrated, tested, and validated **multiple open-source AI models** to support content and data generation workflows.
-* 🖥️ Built and maintained core product workflows using **Streamlit**, which powered the company’s primary product.
-* 🔧 Debugged and stabilized **Python-based ML pipelines**, resolving runtime issues and improving execution reliability.
-* 📊 Analyzed logs and model outputs to ensure **data consistency, accuracy, and predictable behavior**.
-* 📝 Documented workflows, fixes, and operational practices to support smooth collaboration across teams.
-
-**Tech Stack Used:**
+**Tech Stack:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,react,angular,mysql" height="40" />
 </p>
 
-
-
+---
 
 ### <img src="/Leiten Technology Logo.jpg" width="35" style="vertical-align: middle;"> Full Stack Developer Intern @ **Leiten Technologies Private**
 **Duration:** Jun 2025 – Jul 2025
+- 🎟️ Worked on **Event Management Software** handling end-to-end operations  
+- 💳 Developed modules for **registration, payments, and participant management**  
+- 📱 Implemented **QR-based check-in workflows** to streamline events  
+- 🔧 Enhanced backend APIs and **system reliability** for peak loads  
 
-**Key Contributions:**
-* 🎟️ Worked on an **Event Management Software product** handling end-to-end event operations.
-* 💳 Developed and supported modules for **event registration, payment enrollment, and participant management**.
-* 📱 Contributed to **QR-based scanning and check-in workflows** to streamline on-site event access.
-* 🔧 Improved backend APIs and data handling to ensure reliable event data flow during peak usage.
-* ⚙️ Enhanced system reliability and usability to support smoother event execution.
-
-**Tech Stack Used:**
+**Tech Stack:**  
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,react,mysql,postman,aws" height="40" />
 </p>
 
-
+---
 
 ### <img src="/Tata Commincation Logo.jpg" width="35" style="vertical-align: middle;"> Software Engineer Intern @ **Tata Communications Ltd.**
 **Duration:** Dec 2024 – Jan 2025
+- ☁️ Built **Micro Cloud Services** for mini-enterprise platform  
+- 🧱 Developed services **from scratch**, supporting full product lifecycle  
+- 🗂️ Designed **metadata structures & meta tables** to ensure data consistency  
+- 🚀 Supported **CI/CD pipelines and production deployments**  
 
-**Key Contributions:**
-* ☁️ Worked as a **Micro Cloud Services Product Developer** on a cloud-based platform for mini enterprises.
-* 🧱 Contributed to building services **from scratch**, supporting the product lifecycle from development to deployment.
-* 🗂️ Designed and implemented **metadata structures and meta tables** to ensure data consistency across services.
-* 🔄 Ensured all product data was properly standardized and traceable through metadata-driven design.
-* 🚀 Supported CI/CD pipelines and deployment workflows to successfully deliver the product into production.
-
-**Tech Stack Used:**
+**Tech Stack:**  
 <p>
   <img src="https://skillicons.dev/icons?i=angular,spring,aws,postman,mongodb" height="40" />
 </p>
+
 
 ---
 

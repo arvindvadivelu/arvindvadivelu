@@ -120,7 +120,7 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 
 
-### <img src="//Tata Commincation Logo.webp" width="35" style="vertical-align: middle;"> Software Engineer Intern @ **Tata Communications Ltd.**
+### <img src="//Tata Commincation Logo.jpg" width="35" style="vertical-align: middle;"> Software Engineer Intern @ **Tata Communications Ltd.**
 **Duration:** Dec 2024 – Jan 2025
 
 **Key Contributions:**

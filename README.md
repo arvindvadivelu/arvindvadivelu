@@ -156,22 +156,28 @@ I focus on solving real problems, building long-term value, and owning systems e
 ## 🛠️ Technical Skills
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" height="50" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,go,mongodb,postgres,redis,mysql" height="50" />
+### Backend 
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java" height="50" />
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,linux,terraform" height="50" />
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,redis,mysql" height="50" />
 
-### 🧰 Tools & Productivity
+### Cloud
+<img src="https://skillicons.dev/icons?i=aws,jenkins" height="50" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="45" title="Git, GitHub, VSCode, Postman, Figma" />
+### Tools & Productivity
 
-<img src="https://www.flaticon.com/free-icon/chatgpt_12222588?term=chatgpt&page=1&position=2&origin=tag&related_id=12222588" height="45" title="ChatGPT" />
-<img src="https://skillicons.dev/icons?i=cursor" height="45" title="Cursor AI" />
-<img src="https://skillicons.dev/icons?i=perplexity" height="45" title="Perplexity AI" />
-<img src="https://skillicons.dev/icons?i=gemini" height="45" title="Gemini AI" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50" title="Git, GitHub, VSCode, Postman, Figma" />
+
+<br>
+<img src="chatgpt.png" height="50" title="ChatGPT" />
+<img src="./Cursor AI.png" height="50" title="Cursor AI" />
+<img src="./google-gemini-icon.png" height="50" title="Gemini AI" />
+<img src="./claude-ai-icon.png" height="50" title="Claude" />
+<img src="./perplexity-ai-icon.png" height="50" title="perplexity" />
+
 
 
 

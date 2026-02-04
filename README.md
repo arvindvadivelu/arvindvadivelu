@@ -37,7 +37,7 @@
 
 ## 🚀 Builder at Heart
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="200" align="right"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="20" align="right"/>
 
 <h3><strong>Full-Stack & Java Developer · Remote-Ready · MNC-Ready</strong></h3>
 

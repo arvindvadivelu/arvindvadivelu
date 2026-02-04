@@ -125,14 +125,6 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 ## 🏆 Achievements & Milestones
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
 * 🥇 **1st Prize, Cognebula 2025** – Won **Prompt Craft** at Velammal Eng College, **₹3000 cash + ₹3000 voucher**.
 * 🌟 **Unstop Campus Ambassador 2024-2025** – Represented campus and led engagement initiatives.  
 * 💡 **Idea Pitch Deck Competition Winner** – Secured **₹500 prize** for innovative idea presentation.

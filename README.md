@@ -155,14 +155,20 @@ I focus on solving real problems, building long-term value, and owning systems e
 
 ### Tools & Productivity
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50" title="Git, GitHub, VSCode, Postman, Figma" />
+<!-- Tools & AI Icons in single row -->
+<div align="left">
 
-<br>
-<img src="chatgpt.png" height="50" title="ChatGPT" />
-<img src="./Cursor AI.png" height="50" title="Cursor AI" />
-<img src="./google-gemini-icon.png" height="50" title="Gemini AI" />
-<img src="./claude-ai-icon.png" height="50" title="Claude" />
-<img src="./perplexity-ai-icon.png" height="50" title="perplexity" />
+  <!-- Standard Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50" title="Git, GitHub, VSCode, Postman, Figma" />
+
+  <!-- AI Tools -->
+  <img src="chatgpt.png" height="50" title="ChatGPT" />
+  <img src="./Cursor AI.png" height="50" title="Cursor AI" />
+  <img src="./google-gemini-icon.png" height="50" title="Gemini AI" />
+  <img src="./claude-ai-icon.png" height="50" title="Claude" />
+  <img src="./perplexity-ai-icon.png" height="50" title="Perplexity" />
+
+</div>
 
 
 

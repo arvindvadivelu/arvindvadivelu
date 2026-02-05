@@ -179,5 +179,5 @@ I focus on solving real problems, building long-term value, and owning systems e
 
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Wave">
-  <p>Made with ❤️ by <a href="https://github.com/Arvindvadivelu">Arvind V</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Arvindvadivelu">Arvind Vadivelu</a></p>
 </div>

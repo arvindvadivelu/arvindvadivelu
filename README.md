@@ -76,7 +76,6 @@ I focus on solving real problems, building long-term value, and owning systems e
 <strong>Open to:</strong> Remote roles · Global teams · High-impact MNC opportunities
 </p>
 
-<br clear="right"/>
 
 ---
 

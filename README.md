@@ -37,7 +37,7 @@
     <a href="https://unstop.com/u/arvindv2351">
         <img src="https://img.shields.io/badge/Unstop-0047FF?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
     </a>
-    <a href="">
+    <a href="https://arvind-works.netlify.app">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="varvind2004@gmail.com">
@@ -172,7 +172,7 @@ I focus on solving real problems, building long-term value, and owning systems e
   <a href="https://www.linkedin.com/in/arvindvadivelu">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
-  <a href="">
+  <a href="https://arvind-works.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 
